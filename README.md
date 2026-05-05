@@ -17,7 +17,7 @@ A Spring Boot based RESTful application to manage **Person** and **Aadhaar** dat
 ## 📂 Project Structure
 
 ```
-com.pa
+org.example.personaadhaarservice
 │
 ├── controller
 │   ├── PersonController.java
@@ -38,6 +38,7 @@ com.pa
 ├── exception
 │   ├── ResourceNotFoundException.java
 │   └── GlobalExceptionHandler.java
+|__ PersonAadhaarServiceApplication
 ```
 
 ---
