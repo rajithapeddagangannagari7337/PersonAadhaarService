@@ -170,7 +170,7 @@ spring.datasource.password=your_password
 ## 👨‍💻 Author
 
 Your Name
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/rajithapeddagangannagari7337
 
 ---
 
